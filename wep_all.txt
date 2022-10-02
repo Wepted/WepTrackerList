@@ -1294,9 +1294,9 @@ http://tracker.pcfreetime.com:6969/announce
 
 http://cn.pcfreetime.com:6969/announce
 
-http://bt.endpot.com:80/announce
-
 udp://creative.7o7.cx:6969/announce
+
+http://bt.endpot.com:80/announce
 
 https://chihaya-heroku.120181311.xyz:443/announce
 
@@ -1328,7 +1328,7 @@ http://tracker.logirl.moe:17052/announce
 
 udp://www.skynetcenter.me:6969/announce
 
-udp://9.rarbg.to:2940/announce
+udp://9.rarbg.to:2910/announce
 
 udp://zephir.monocul.us:6969/announce
 
