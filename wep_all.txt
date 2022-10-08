@@ -1196,6 +1196,8 @@ http://75.127.14.224:2710/announce
 
 http://seeders-paradise.org/announce
 
+udp://buddyfly.top:6969/announce
+
 http://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
 
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
@@ -1241,8 +1243,6 @@ udp://[2a03:7220:8083:cd00::1]:451/announce
 udp://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 udp://[2a0f:e586:f:f::220]:6969/announce
-
-udp://buddyfly.top:6969/announce
 
 udp://cancela-tu.creditofiscal.mx:3074/announce
 
@@ -1300,37 +1300,37 @@ udp://tracker.teambelgium.net:6969/announce
 
 udp://204.79.238.89.in-addr.arpa.manitu.net:6969/announce
 
+udp://creative.7o7.cx:6969/announce
+
 udp://tracker.farted.net:6969/announce
 
-udp://creative.7o7.cx:6969/announce
+https://tracker.loli.co.nz:443/announce
 
 udp://bt.plc.mx:3074/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
-https://tracker.loli.co.nz:443/announce
-
 http://cn.pcfreetime.com:6969/announce
-
-http://tracker.pcfreetime.com:6969/announce
 
 udp://u6.trakx.crim.ist:1337/announce
 
-udp://btt.service.gongt.me:43079/announce
+http://tracker.pcfreetime.com:6969/announce
 
-udp://ryjer.com:6969/announce
+udp://tracker.lyretain.site:2710/announce
 
 udp://tracker.breizh.pm:6969/announce
 
 https://chihaya-heroku.120181311.xyz:443/announce
 
-udp://tracker.lyretain.site:2710/announce
+udp://ryjer.com:6969/announce
 
 http://bt.endpot.com:80/announce
 
-http://kamikazee.duckdns.org:7777/announce
+udp://btt.service.gongt.me:43079/announce
 
 udp://tracker.btsync.gq:233/announce
+
+http://kamikazee.duckdns.org:7777/announce
 
 udp://tracker.skyts.cn:6969/announce
 
@@ -1342,11 +1342,9 @@ udp://www.zhaohu.love:6969/announce
 
 http://tracker.logirl.moe:17052/announce
 
-udp://tracker.6.babico.name.tr:6969/announce
-
 udp://edu.uifr.ru:6969/announce
 
-udp://9.rarbg.to:2840/announce
+udp://9.rarbg.to:2810/announce
 
 udp://zephir.monocul.us:6969/announce
 
@@ -1663,6 +1661,8 @@ udp://lloria.fr:6969/announce
 udp://k1.com.br:6969/announce
 
 udp://tothemoon.host:6969/announce
+
+udp://tracker.6.babico.name.tr:6969/announce
 
 udp://h3o2.me:1337/announce
 
